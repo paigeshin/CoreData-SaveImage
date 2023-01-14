@@ -1,6 +1,6 @@
 # Save Image
 
-![Screen Shot 2023-01-14 at 4.14.54 PM.png](./ITEM.png)
+![ITEM.png](./ITEM.png)
 
 ### Preparation
 
